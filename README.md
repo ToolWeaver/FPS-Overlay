@@ -68,9 +68,6 @@ The settings dialog offers extensive customization:
 
 The application creates a frameless, always-on-top window that calculates and displays the current FPS. By default, it's transparent to mouse events, allowing you to interact with applications underneath it.
 
-## License
-
-[MIT License](LICENSE)
 
 ## Contributing
 
